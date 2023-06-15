@@ -16,7 +16,7 @@ termcolor
 timm
 torch
 torchvision
-transformers==4.28.1
+transformers
 yapf
 accelerate
 exif
