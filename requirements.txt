@@ -15,7 +15,7 @@ supervision
 termcolor
 timm
 #torch
-torch
+torch==1.13.1
 #torchvision
 torchvision
 #transformers
@@ -44,3 +44,4 @@ streamlit==1.17.0
 protobuf~=3.20.1
 torchmetrics==0.6.0
 kornia==0.6.0
+torchdata==0.5.1
