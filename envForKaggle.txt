@@ -1,5 +1,7 @@
 #forkaggle
 torchdata==0.5.1
+#forkaggle
+tensorflow-io==0.32.0
 addict
 diffusers
 gradio
