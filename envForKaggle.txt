@@ -1,3 +1,5 @@
+#forkaggle
+torchdata==0.5.1
 addict
 diffusers
 gradio
